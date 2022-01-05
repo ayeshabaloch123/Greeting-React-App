@@ -1,0 +1,29 @@
+
+ 
+body{
+  text-align: center;
+  
+    background-color:  black;
+    
+  }
+  .Myclass{
+    margin-top: 250px;
+  }
+
+ 
+.btn{
+   
+  width: 100px;  
+height: 40px;
+  font-size: 15px; 
+color: black;  
+font-size:larger;
+ background-color:green;
+ border-radius:8px;
+
+} 
+h1{
+  font-family: 'Times New Roman';
+  color: #fff;
+  font-weight: bold;
+}
